@@ -7,6 +7,7 @@ The filters can be static, random or data dependent as the problem requires.
 
 ---
 Import MirrorNet class
+
     from MirrorNet import MirrorNet 
 
 ---
